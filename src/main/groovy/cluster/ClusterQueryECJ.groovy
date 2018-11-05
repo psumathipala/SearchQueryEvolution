@@ -37,7 +37,13 @@ public class ClusterQueryECJ extends Problem implements SimpleProblemForm {
 
         super.setup(state, base);
         println "Total docs for ClusterQueryECJ.groovy   " + Indexes.indexReader.maxDoc()
-        termQueryArray = new ImportantTerms().getTFIDFTermQueryList()
+        //Changed by Prasanna on 2018/10/04
+        //termQueryArray = new ImportantTerms().getTFIDFTermQueryList()
+        //println ".........FS method used TFIDF............."
+        //termQueryArray = new ImportantTerms().getTFIDFTermQueryList()
+        //termQueryArray = new ImportantTerms().getF1TermQueryList()
+        termQueryArray = new ImportantTerms().getIGTermQueryList()
+
     }
 
     public void evaluate(final EvolutionState state, final Individual ind, final int subpopulation,

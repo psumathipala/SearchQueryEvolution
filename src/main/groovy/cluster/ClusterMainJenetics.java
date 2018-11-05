@@ -16,7 +16,8 @@ import static org.jenetics.engine.EvolutionResult.toBestPhenotype;
 
 public class ClusterMainJenetics {
 
-    private final static TermQuery[] termQueryArray = new ImportantTerms().getTFIDFTermQueryList() ;
+    //private final static TermQuery[] termQueryArray = new ImportantTerms().getTFIDFTermQueryList() ;
+    private final static TermQuery[] termQueryArray = new ImportantTerms().getF1TermQueryList() ;
 
     private static double evaluate(final Genotype<IntegerGene> gt) {
 

@@ -33,7 +33,7 @@ public class ImportantTerms {
     private TermsEnum termsEnum
     private Set<String> stopSet = StopSet.getStopSetFromFile()
 
-    public static final ImportantTermsMethod itm = ImportantTermsMethod.TFIDF
+    //public static final ImportantTermsMethod itm = ImportantTermsMethod.TFIDF
 
     public static void main(String[] args) {
         Indexes.instance.setIndex(Indexes.indexEnum = IndexEnum.NG3)
@@ -41,11 +41,11 @@ public class ImportantTerms {
         Indexes.instance.setIndexFieldsAndTotals()
 
         def iw = new ImportantTerms()
-        iw.mergeMethods()
-        //    iw.getF1TermQueryList()
+        //  iw.mergeMethods()
+         // iw.getF1TermQueryList()
         //  iw.getTFIDFTermQueryList()
         //        iw.getTFIDFTermQueryListForCategory()
-        //iw.getIGTermQueryList()
+        iw.getIGTermQueryList()
         //iw.getChiTermQueryList()
         // iw.getORTermQueryList()
     }
@@ -177,7 +177,7 @@ public class ImportantTerms {
      * create a set of words based on F1 measure of the term when used to classify current category
      */
     //@TypeChecked(TypeCheckingMode.SKIP)
-    private TermQuery[] getF1TermQueryList() {
+    public TermQuery[] getF1TermQueryList() {
 
         BytesRef termbr
         def termQueryMap = [:]
@@ -311,7 +311,7 @@ public class ImportantTerms {
     }
 
     // Written by Prasanna on 2017/05/07 to calculate information gain
-    private TermQuery[] getIGTermQueryList() {
+    public TermQuery[] getIGTermQueryList() {
 
         BytesRef termbr
         def termQueryMap = [:]
