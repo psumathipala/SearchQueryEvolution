@@ -156,11 +156,12 @@ class QueryListFromChromosome {
 
 
     static List<BooleanQuery.Builder> getORDNFQueryListSetK(int[] intArray, TermQuery[] termQueryArray) {
-
+/*
         int k = intArray[0]
         int[] rest = intArray[1..intArray.size() - 1]
 
         return QueryListFromChromosome.getORDNFQueryList(rest, termQueryArray, k)
+ */
     }
 
     //first word is OR followed by DNF clauses

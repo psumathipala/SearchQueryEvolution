@@ -42,8 +42,7 @@ public class ClusterQueryECJ extends Problem implements SimpleProblemForm {
         //println ".........FS method used TFIDF............."
         //termQueryArray = new ImportantTerms().getTFIDFTermQueryList()
         //termQueryArray = new ImportantTerms().getF1TermQueryList()
-        termQueryArray = new ImportantTerms().getIGTermQueryList()
-
+        termQueryArray = new ImportantTerms().getImportantTerms()
     }
 
     public void evaluate(final EvolutionState state, final Individual ind, final int subpopulation,

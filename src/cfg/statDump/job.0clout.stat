@@ -1,0 +1,1918 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+34 67 -1 39 29 6 27 46 85 23 32 93 87 69 59 33 11 33
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+74 43 72 80 69 50 38 11 62 39 59 100 27 94 38 2 11 89
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+41 85 15 35 40 12 32 19 61 95 36 62 56 65 2 17 1 14
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+36 95 82 63 27 5 85 79 65 44 41 40 14 51 88 74 14 44
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+44 3 47 79 76 54 66 10 69 81 1 30 81 78 56 14 19 44
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+83 56 79 66 94 93 81 33 44 91 94 51 39 51 97 21 90 18
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+11 29 62 21 47 87 92 32 49 36 84 66 54 50 23 49 1 69
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+71 85 91 33 89 21 15 8 3 68 7 37 76 94 63 59 100 81
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+27 4 21 44 5 50 30 65 58 15 56 52 84 21 87 59 84 38
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+20 89 74 88 66 98 16 46 82 65 44 23 94 89 89 88 81 39
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 42.08432465791702 scorePlus 42.08432465791702 hitsPlus 0 
+70 78 78 58 32 66 92 74 65 75 75 68 46 60 56 21 92 71
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+71 52 35 46 58 35 69 35 80 39 16 71 11 8 89 68 6 30
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+74 4 42 25 78 26 95 14 88 30 81 28 42 57 5 29 91 4
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+2 77 1 88 7 97 75 16 48 64 76 86 21 81 75 22 87 11
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 908.2166678309441 scorePlus 908.2166678309441 hitsPlus 0 
+70 78 78 58 32 66 92 74 65 75 75 68 100 68 56 60 64 82
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+95 89 52 56 24 76 94 59 81 38 92 82 86 7 24 93 28 82
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+0 30 38 77 66 7 14 95 3 70 72 55 52 70 6 24 75 42
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+8 94 17 31 60 93 81 33 29 91 94 55 39 51 97 21 90 18
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 1482.449670791626 scorePlus 1482.449670791626 hitsPlus 0 
+33 33 17 28 -1 100 80 31 43 22 100 51 91 96 31 49 17 58
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2.7195920050144196 scorePlus 2.7195920050144196 hitsPlus 0 
+31 92 88 19 93 46 -1 100 20 93 70 71 63 38 50 97 70 97
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+0 51 77 64 26 10 41 23 59 28 35 17 64 2 79 26 45 56
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+16 81 67 2 94 93 81 33 37 31 94 17 39 51 -1 21 51 60
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 1482.449670791626 scorePlus 1482.449670791626 hitsPlus 0 
+33 33 17 28 -1 100 80 31 43 22 100 51 91 96 31 49 17 58
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2.7195920050144196 scorePlus 2.7195920050144196 hitsPlus 0 
+31 92 88 19 93 46 -1 100 20 93 70 71 63 38 50 97 70 97
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+15 76 72 30 85 12 84 13 47 53 27 64 91 71 78 6 3 38
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+62 12 29 4 88 55 45 80 29 13 12 32 33 38 6 96 3 95
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 1482.449670791626 scorePlus 1482.449670791626 hitsPlus 0 
+33 33 17 28 -1 100 80 31 43 22 100 51 91 96 31 49 17 58
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2.7195920050144196 scorePlus 2.7195920050144196 hitsPlus 0 
+31 92 88 19 93 46 -1 100 20 93 70 71 63 38 50 97 70 97
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+0 10 77 64 18 10 41 52 59 78 81 49 68 89 69 56 66 8
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+43 22 76 18 7 52 36 80 13 23 57 40 50 51 90 28 64 21
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3067.5404759049416 scorePlus 3067.5404759049416 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 31 75 22 38
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2.7195920050144196 scorePlus 2.7195920050144196 hitsPlus 0 
+31 92 88 19 93 46 -1 100 20 93 70 71 63 38 50 97 70 97
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+57 27 6 53 41 0 6 -1 11 96 81 92 79 70 81 3 8 82
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+36 58 40 51 49 34 23 22 13 36 12 32 63 38 6 86 26 29
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3067.5404759049416 scorePlus 3067.5404759049416 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 31 75 22 38
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 1520.3582982122898 scorePlus 1520.3582982122898 hitsPlus 0 
+64 17 82 19 93 19 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+70 44 79 3 51 10 28 62 61 96 59 44 -1 94 12 72 97 71
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+19 12 37 12 83 88 35 72 72 6 68 78 55 5 17 10 36 59
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3067.5404759049416 scorePlus 3067.5404759049416 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 31 75 22 38
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 1520.3582982122898 scorePlus 1520.3582982122898 hitsPlus 0 
+64 17 82 19 93 19 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+33 69 20 96 51 23 58 64 52 21 48 99 26 24 57 92 80 32
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3235.674047112465 scorePlus 3235.674047112465 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 31 75 22 59
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 1520.3582982122898 scorePlus 1520.3582982122898 hitsPlus 0 
+64 17 82 19 93 19 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 0.0 scorePlus 0.0 hitsPlus 0 
+43 58 40 51 17 41 72 6 1 4 58 66 3 10 100 28 6 21
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3430.984960258007 scorePlus 3430.984960258007 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 -1 82 91 70
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 1520.3582982122898 scorePlus 1520.3582982122898 hitsPlus 0 
+64 17 82 19 93 19 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 254.34578315913677 scorePlus 254.34578315913677 hitsPlus 0 
+77 22 77 45 100 8 22 97 57 100 42 34 100 100 58 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3737.5376402139664 scorePlus 3737.5376402139664 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2337.389271438122 scorePlus 2337.389271438122 hitsPlus 0 
+64 17 82 19 90 23 -1 100 33 -1 100 97 17 23 70 84 70 23
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 777.4126071929932 scorePlus 777.4126071929932 hitsPlus 0 
+35 22 77 45 100 8 22 97 41 100 42 34 100 100 58 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3737.5376402139664 scorePlus 3737.5376402139664 hitsPlus 0 
+33 33 27 28 -1 100 80 31 31 22 100 51 91 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2337.389271438122 scorePlus 2337.389271438122 hitsPlus 0 
+64 17 82 19 90 23 -1 100 33 -1 100 97 17 23 70 84 70 23
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 777.4126071929932 scorePlus 777.4126071929932 hitsPlus 0 
+35 22 77 45 100 8 22 97 41 100 42 34 100 100 58 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3898.8763459920883 scorePlus 3898.8763459920883 hitsPlus 0 
+70 78 78 88 -1 100 80 31 31 22 100 51 91 96 -1 82 91 70
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2337.389271438122 scorePlus 2337.389271438122 hitsPlus 0 
+64 17 82 19 90 23 -1 100 33 -1 100 97 17 23 70 84 70 23
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 777.4126071929932 scorePlus 777.4126071929932 hitsPlus 0 
+35 22 77 45 100 8 22 97 41 100 42 34 100 100 58 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3898.8763459920883 scorePlus 3898.8763459920883 hitsPlus 0 
+70 78 78 88 -1 100 80 31 31 22 100 51 91 96 -1 82 91 70
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2560.344709277153 scorePlus 2560.344709277153 hitsPlus 0 
+64 92 82 19 90 23 -1 100 33 -1 100 97 17 23 70 66 70 80
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 869.1753193438053 scorePlus 869.1753193438053 hitsPlus 0 
+77 22 77 87 100 61 22 21 60 87 87 34 100 100 58 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 3898.8763459920883 scorePlus 3898.8763459920883 hitsPlus 0 
+70 78 78 88 -1 100 80 31 31 22 100 51 91 96 -1 82 91 70
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2873.3627595305443 scorePlus 2873.3627595305443 hitsPlus 0 
+42 17 82 -1 93 16 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 1163.6007120609283 scorePlus 1163.6007120609283 hitsPlus 0 
+35 22 10 92 100 8 22 93 41 100 70 40 100 100 84 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 4174.652292519808 scorePlus 4174.652292519808 hitsPlus 0 
+33 78 78 86 31 100 70 31 31 22 100 51 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2873.3627595305443 scorePlus 2873.3627595305443 hitsPlus 0 
+42 17 82 -1 93 16 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2196.280780017376 scorePlus 2196.280780017376 hitsPlus 0 
+35 22 77 87 100 24 22 93 86 100 70 62 100 100 84 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 4174.652292519808 scorePlus 4174.652292519808 hitsPlus 0 
+33 78 78 86 31 100 70 31 31 22 100 51 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2873.3627595305443 scorePlus 2873.3627595305443 hitsPlus 0 
+42 17 82 -1 93 16 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 541.4500079154968 scorePlus 541.4500079154968 hitsPlus 0 
+25 73 96 9 59 21 41 -1 44 12 44 73 66 96 38 46 12 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2196.280780017376 scorePlus 2196.280780017376 hitsPlus 0 
+35 22 77 87 100 24 22 93 86 100 70 62 100 100 84 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 4288.858613908291 scorePlus 4288.858613908291 hitsPlus 0 
+33 78 78 88 -1 100 80 31 31 22 100 51 91 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2873.3627595305443 scorePlus 2873.3627595305443 hitsPlus 0 
+42 17 82 -1 93 16 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 650.3326969444752 scorePlus 650.3326969444752 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 64 57 13 73 91 59
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2222.6149400770664 scorePlus 2222.6149400770664 hitsPlus 0 
+35 22 77 91 100 24 22 93 86 100 70 84 100 100 84 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 4639.608561217785 scorePlus 4639.608561217785 hitsPlus 0 
+33 78 78 86 90 100 80 31 31 22 100 96 91 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2873.3627595305443 scorePlus 2873.3627595305443 hitsPlus 0 
+42 17 82 -1 93 16 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 974.4196057021618 scorePlus 974.4196057021618 hitsPlus 0 
+45 78 92 45 83 -1 64 64 37 87 77 87 66 96 32 45 47 65
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2222.6149400770664 scorePlus 2222.6149400770664 hitsPlus 0 
+35 22 77 91 100 24 22 93 86 100 70 84 100 100 84 74 70 55
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 4705.108141452074 scorePlus 4705.108141452074 hitsPlus 0 
+33 -1 27 28 -1 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 2873.3627595305443 scorePlus 2873.3627595305443 hitsPlus 0 
+42 17 82 -1 93 16 -1 100 33 -1 100 97 17 8 47 84 70 23
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2504.6673037707806 scorePlus 2504.6673037707806 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 87 2 81 92 90 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2395.3443398475647 scorePlus 2395.3443398475647 hitsPlus 0 
+35 22 77 87 100 24 22 93 86 100 70 62 100 100 45 74 70 24
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 4932.413133025169 scorePlus 4932.413133025169 hitsPlus 0 
+71 78 78 86 31 100 80 31 31 22 100 96 16 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 3134.543194949627 scorePlus 3134.543194949627 hitsPlus 0 
+64 73 82 -1 93 23 -1 100 33 -1 100 97 17 23 70 66 70 80
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2504.6673037707806 scorePlus 2504.6673037707806 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 87 2 81 92 90 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2544.460282921791 scorePlus 2544.460282921791 hitsPlus 0 
+45 22 77 91 100 24 22 93 86 100 70 84 100 100 84 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 -1 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 3134.543194949627 scorePlus 3134.543194949627 hitsPlus 0 
+64 73 82 -1 93 23 -1 100 33 -1 100 97 17 23 70 66 70 80
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2592.070988237858 scorePlus 2592.070988237858 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 83 96 32 45 47 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2544.460282921791 scorePlus 2544.460282921791 hitsPlus 0 
+45 22 77 91 100 24 22 93 86 100 70 84 100 100 84 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 -1 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2592.070988237858 scorePlus 2592.070988237858 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 83 96 32 45 47 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2544.460282921791 scorePlus 2544.460282921791 hitsPlus 0 
+45 22 77 91 100 24 22 93 86 100 70 84 100 100 84 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 -1 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2592.070988237858 scorePlus 2592.070988237858 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 83 96 32 45 47 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2544.460282921791 scorePlus 2544.460282921791 hitsPlus 0 
+45 22 77 91 100 24 22 93 86 100 70 84 100 100 84 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 -1 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2592.070988237858 scorePlus 2592.070988237858 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 83 96 32 45 47 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 2544.460282921791 scorePlus 2544.460282921791 hitsPlus 0 
+45 22 77 91 100 24 22 93 86 100 70 84 100 100 84 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2592.070988237858 scorePlus 2592.070988237858 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 83 96 32 45 47 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3023.8093941509724 scorePlus 3023.8093941509724 hitsPlus 0 
+50 54 77 91 100 97 22 93 86 100 70 84 100 100 84 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 2592.070988237858 scorePlus 2592.070988237858 hitsPlus 0 
+96 85 92 45 83 -1 64 64 37 87 77 87 83 96 32 45 47 54
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 -1 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3263.8408833146095 scorePlus 3263.8408833146095 hitsPlus 0 
+96 85 92 45 83 -1 64 33 37 87 77 87 83 96 32 45 47 37
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4202.870099037886 scorePlus 4202.870099037886 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 70 71
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3263.8408833146095 scorePlus 3263.8408833146095 hitsPlus 0 
+96 85 92 45 83 -1 64 33 37 87 77 87 83 96 32 45 47 37
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5412.945777267218 scorePlus 5412.945777267218 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 96 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4446.074593573809 scorePlus 4446.074593573809 hitsPlus 0 
+45 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 86 66 100 71
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3306.678657233715 scorePlus 3306.678657233715 hitsPlus 0 
+96 85 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5475.3160644471645 scorePlus 5475.3160644471645 hitsPlus 0 
+33 78 78 86 90 100 80 31 31 22 100 31 40 90 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4446.074593573809 scorePlus 4446.074593573809 hitsPlus 0 
+45 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 86 66 100 71
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3306.678657233715 scorePlus 3306.678657233715 hitsPlus 0 
+96 85 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5475.3160644471645 scorePlus 5475.3160644471645 hitsPlus 0 
+33 78 78 86 90 100 80 31 31 22 100 31 40 90 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4446.074593573809 scorePlus 4446.074593573809 hitsPlus 0 
+45 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 86 66 100 71
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3306.678657233715 scorePlus 3306.678657233715 hitsPlus 0 
+96 85 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5814.780241698027 scorePlus 5814.780241698027 hitsPlus 0 
+33 78 78 29 -1 100 80 31 31 22 100 31 40 33 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4446.074593573809 scorePlus 4446.074593573809 hitsPlus 0 
+45 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 86 66 100 71
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3306.678657233715 scorePlus 3306.678657233715 hitsPlus 0 
+96 85 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5891.472733706236 scorePlus 5891.472733706236 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4623.034065574408 scorePlus 4623.034065574408 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 94 71
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3326.6388830840588 scorePlus 3326.6388830840588 hitsPlus 0 
+96 45 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5891.472733706236 scorePlus 5891.472733706236 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4623.034065574408 scorePlus 4623.034065574408 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 94 71
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3326.6388830840588 scorePlus 3326.6388830840588 hitsPlus 0 
+96 45 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5891.472733706236 scorePlus 5891.472733706236 hitsPlus 0 
+33 78 78 86 31 100 80 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4623.034065574408 scorePlus 4623.034065574408 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 94 71
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 3326.6388830840588 scorePlus 3326.6388830840588 hitsPlus 0 
+96 45 92 45 83 87 64 33 37 87 77 87 83 96 32 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 5891.472733706236 scorePlus 5891.472733706236 hitsPlus 0 
+33 78 78 86 -1 100 80 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4623.034065574408 scorePlus 4623.034065574408 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 94 71
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4033.6338661909103 scorePlus 4033.6338661909103 hitsPlus 0 
+96 85 73 45 62 87 99 33 59 87 77 87 87 2 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6057.076414436102 scorePlus 6057.076414436102 hitsPlus 0 
+33 78 78 86 31 100 47 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 4623.034065574408 scorePlus 4623.034065574408 hitsPlus 0 
+94 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 47 66 94 71
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4033.6338661909103 scorePlus 4033.6338661909103 hitsPlus 0 
+96 85 73 45 62 87 99 33 59 87 77 87 87 2 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6057.076414436102 scorePlus 6057.076414436102 hitsPlus 0 
+33 78 78 86 31 100 47 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5342.023129850626 scorePlus 5342.023129850626 hitsPlus 0 
+45 84 17 -1 93 16 -1 100 33 -1 100 97 17 -1 47 66 100 71
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4033.6338661909103 scorePlus 4033.6338661909103 hitsPlus 0 
+96 85 73 45 62 87 99 33 59 87 77 87 87 2 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3390.220760524273 scorePlus 3390.220760524273 hitsPlus 0 
+45 22 77 76 100 72 22 90 86 100 70 84 100 100 45 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6057.076414436102 scorePlus 6057.076414436102 hitsPlus 0 
+33 78 78 86 31 100 47 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5459.48940333724 scorePlus 5459.48940333724 hitsPlus 0 
+45 84 17 -1 93 16 -1 100 33 -1 100 97 17 -1 47 68 100 71
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4254.487885385752 scorePlus 4254.487885385752 hitsPlus 0 
+96 39 92 45 83 87 64 63 37 87 77 87 83 98 81 45 85 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3652.0420466661453 scorePlus 3652.0420466661453 hitsPlus 0 
+58 22 77 91 100 72 22 22 86 100 70 83 100 100 45 84 -1 63
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6057.076414436102 scorePlus 6057.076414436102 hitsPlus 0 
+33 78 78 86 -1 100 47 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5459.48940333724 scorePlus 5459.48940333724 hitsPlus 0 
+45 84 17 -1 93 16 -1 100 33 -1 100 97 17 -1 47 68 100 71
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4254.487885385752 scorePlus 4254.487885385752 hitsPlus 0 
+96 39 92 45 83 87 64 63 37 87 77 87 83 98 81 45 85 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3652.0420466661453 scorePlus 3652.0420466661453 hitsPlus 0 
+58 22 77 91 100 72 22 22 86 100 70 83 100 100 45 84 -1 63
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6057.076414436102 scorePlus 6057.076414436102 hitsPlus 0 
+33 78 78 86 -1 100 47 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5459.48940333724 scorePlus 5459.48940333724 hitsPlus 0 
+45 84 17 -1 93 16 -1 100 33 -1 100 97 17 -1 47 68 100 71
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4254.487885385752 scorePlus 4254.487885385752 hitsPlus 0 
+96 39 92 45 83 87 64 63 37 87 77 87 83 98 81 45 85 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3679.457194879651 scorePlus 3679.457194879651 hitsPlus 0 
+45 84 77 -1 100 72 54 90 54 100 22 84 100 100 77 64 70 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6057.076414436102 scorePlus 6057.076414436102 hitsPlus 0 
+33 78 78 86 -1 100 47 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5459.48940333724 scorePlus 5459.48940333724 hitsPlus 0 
+45 84 17 -1 93 16 -1 100 33 -1 100 97 17 -1 47 68 100 71
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4778.66119286418 scorePlus 4778.66119286418 hitsPlus 0 
+96 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 3686.33291323483 scorePlus 3686.33291323483 hitsPlus 0 
+45 84 77 -1 100 72 54 90 54 100 70 84 100 100 77 64 70 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5459.48940333724 scorePlus 5459.48940333724 hitsPlus 0 
+45 84 17 -1 93 16 -1 100 33 -1 100 97 17 -1 47 68 100 71
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4778.66119286418 scorePlus 4778.66119286418 hitsPlus 0 
+96 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5684.768173545599 scorePlus 5684.768173545599 hitsPlus 0 
+93 17 82 -1 -1 16 -1 100 33 -1 100 97 17 82 86 -1 82 71
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4778.66119286418 scorePlus 4778.66119286418 hitsPlus 0 
+96 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5684.768173545599 scorePlus 5684.768173545599 hitsPlus 0 
+93 17 82 -1 -1 16 -1 100 33 -1 100 97 17 82 86 -1 82 71
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5684.768173545599 scorePlus 5684.768173545599 hitsPlus 0 
+93 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 86 -1 82 71
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 5684.768173545599 scorePlus 5684.768173545599 hitsPlus 0 
+93 17 82 -1 93 16 -1 100 33 -1 100 97 17 82 86 -1 82 71
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 51
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 52
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4503.705962121487 scorePlus 4503.705962121487 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 89 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 53
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4556.450496658683 scorePlus 4556.450496658683 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 -1 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 54
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4556.450496658683 scorePlus 4556.450496658683 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 -1 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 55
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4825.388810962439 scorePlus 4825.388810962439 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 87 20 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4627.211191445589 scorePlus 4627.211191445589 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 85 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 56
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4932.039613455534 scorePlus 4932.039613455534 hitsPlus 0 
+87 77 73 45 83 83 83 25 37 87 29 87 83 -1 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 4627.211191445589 scorePlus 4627.211191445589 hitsPlus 0 
+68 84 77 54 100 99 84 37 86 100 99 85 100 100 80 84 100 84
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 57
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 4947.185691058636 scorePlus 4947.185691058636 hitsPlus 0 
+87 31 73 45 83 83 83 25 68 87 29 87 87 86 96 45 47 96
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 58
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6172.5600010454655 scorePlus 6172.5600010454655 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 59
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6251.637215405703 scorePlus 6251.637215405703 hitsPlus 0 
+95 78 78 77 31 100 86 31 95 22 100 31 40 40 31 43 22 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 60
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6251.637215405703 scorePlus 6251.637215405703 hitsPlus 0 
+95 78 78 77 31 100 86 31 95 22 100 31 40 40 31 43 22 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 61
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6251.637215405703 scorePlus 6251.637215405703 hitsPlus 0 
+95 78 78 77 31 100 86 31 95 22 100 31 40 40 31 43 22 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 62
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 63
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 64
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 5736.633853286505 scorePlus 5736.633853286505 hitsPlus 0 
+87 77 54 45 83 83 83 25 68 87 29 87 87 86 96 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5135.82109425962 scorePlus 5135.82109425962 hitsPlus 0 
+45 84 77 -1 100 99 84 37 86 100 99 89 45 100 80 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 65
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6414.323541998863 scorePlus 6414.323541998863 hitsPlus 0 
+87 78 84 78 83 83 83 25 25 87 29 87 87 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5151.656259447336 scorePlus 5151.656259447336 hitsPlus 0 
+45 45 77 45 100 99 84 37 86 100 99 80 100 100 60 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 66
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6414.323541998863 scorePlus 6414.323541998863 hitsPlus 0 
+87 78 84 78 83 83 83 25 25 87 29 87 87 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5151.656259447336 scorePlus 5151.656259447336 hitsPlus 0 
+45 45 77 45 100 99 84 37 86 100 99 80 100 100 60 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 67
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6414.323541998863 scorePlus 6414.323541998863 hitsPlus 0 
+87 78 84 78 83 83 83 25 25 87 29 87 87 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5151.656259447336 scorePlus 5151.656259447336 hitsPlus 0 
+45 45 77 45 100 99 84 37 86 100 99 80 100 100 60 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 68
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6414.323541998863 scorePlus 6414.323541998863 hitsPlus 0 
+87 78 84 78 83 83 83 25 25 87 29 87 87 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5151.656259447336 scorePlus 5151.656259447336 hitsPlus 0 
+45 45 77 45 100 99 84 37 86 100 99 80 100 100 60 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 69
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6414.323541998863 scorePlus 6414.323541998863 hitsPlus 0 
+87 78 84 78 83 83 83 25 25 87 29 87 87 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5196.49597132206 scorePlus 5196.49597132206 hitsPlus 0 
+45 45 77 45 100 99 84 37 83 100 99 80 100 100 23 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 70
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6526.620110034943 scorePlus 6526.620110034943 hitsPlus 0 
+87 77 24 45 83 83 83 25 45 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5196.49597132206 scorePlus 5196.49597132206 hitsPlus 0 
+45 45 77 45 100 99 84 37 83 100 99 80 100 100 23 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 71
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6526.620110034943 scorePlus 6526.620110034943 hitsPlus 0 
+87 77 24 45 83 83 83 25 45 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5196.49597132206 scorePlus 5196.49597132206 hitsPlus 0 
+45 45 77 45 100 99 84 37 83 100 99 80 100 100 23 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 100 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 72
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6526.620110034943 scorePlus 6526.620110034943 hitsPlus 0 
+87 77 24 45 83 83 83 25 45 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5196.49597132206 scorePlus 5196.49597132206 hitsPlus 0 
+45 45 77 45 100 99 84 37 83 100 99 80 100 100 23 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 73
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6813.652458667755 scorePlus 6813.652458667755 hitsPlus 0 
+87 77 76 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5378.744433939457 scorePlus 5378.744433939457 hitsPlus 0 
+84 84 77 100 -1 99 78 76 86 100 99 72 70 100 9 84 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 74
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6813.652458667755 scorePlus 6813.652458667755 hitsPlus 0 
+87 77 76 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5378.744433939457 scorePlus 5378.744433939457 hitsPlus 0 
+84 84 77 100 -1 99 78 76 86 100 99 72 70 100 9 84 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 100 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 75
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6813.652458667755 scorePlus 6813.652458667755 hitsPlus 0 
+87 77 76 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 100 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 76
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6813.652458667755 scorePlus 6813.652458667755 hitsPlus 0 
+87 77 76 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 75
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 77
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6380.0066159665585 scorePlus 6380.0066159665585 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 75 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 78
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6456.093152791262 scorePlus 6456.093152791262 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 79
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6456.093152791262 scorePlus 6456.093152791262 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 80
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6456.093152791262 scorePlus 6456.093152791262 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 81
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6456.093152791262 scorePlus 6456.093152791262 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 82
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6456.093152791262 scorePlus 6456.093152791262 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 83
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6456.093152791262 scorePlus 6456.093152791262 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 71 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 84
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6511.3152748942375 scorePlus 6511.3152748942375 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 85
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6828.047537207603 scorePlus 6828.047537207603 hitsPlus 0 
+87 77 93 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6511.3152748942375 scorePlus 6511.3152748942375 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 86
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6511.3152748942375 scorePlus 6511.3152748942375 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 87
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6511.3152748942375 scorePlus 6511.3152748942375 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 77 75 22 75
+
+Generation: 88
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6511.3152748942375 scorePlus 6511.3152748942375 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 89
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6511.3152748942375 scorePlus 6511.3152748942375 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 49 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 90
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6593.204839721322 scorePlus 6593.204839721322 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 91
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6593.204839721322 scorePlus 6593.204839721322 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 92
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6593.204839721322 scorePlus 6593.204839721322 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 93
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6630.293428406119 scorePlus 6630.293428406119 hitsPlus 0 
+25 78 78 77 78 100 86 31 31 65 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 77 31 40 40 31 75 22 75
+
+Generation: 94
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6727.707789897919 scorePlus 6727.707789897919 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 47 31 86
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 78 22 77 31 40 40 31 75 22 75
+
+Generation: 95
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5665.643521338701 scorePlus 5665.643521338701 hitsPlus 0 
+45 84 77 45 100 11 84 100 86 100 99 89 45 100 30 99 100 25
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6727.707789897919 scorePlus 6727.707789897919 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 65 100 31 40 40 31 47 31 86
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 77 31 40 40 31 75 22 75
+
+Generation: 96
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5985.166980147362 scorePlus 5985.166980147362 hitsPlus 0 
+-1 84 77 45 100 11 84 100 25 100 99 88 45 77 63 99 100 9
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6803.909689113498 scorePlus 6803.909689113498 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 33 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 77 31 40 40 31 75 22 75
+
+Generation: 97
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 -1
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5985.166980147362 scorePlus 5985.166980147362 hitsPlus 0 
+-1 84 77 45 100 11 84 100 25 100 99 88 45 77 63 99 100 9
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6803.909689113498 scorePlus 6803.909689113498 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 33 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 98
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5985.166980147362 scorePlus 5985.166980147362 hitsPlus 0 
+-1 84 77 45 100 11 84 100 25 100 99 88 45 77 63 99 100 9
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6803.909689113498 scorePlus 6803.909689113498 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 33 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Generation: 99
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5985.166980147362 scorePlus 5985.166980147362 hitsPlus 0 
+-1 84 77 45 100 11 84 100 25 100 99 88 45 77 63 99 100 9
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6803.909689113498 scorePlus 6803.909689113498 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 33 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: T
+ClusterQuery Fitness: 6858.963791072369 scorePlus 6858.963791072369 hitsPlus 0 
+87 77 64 45 83 83 83 25 25 87 29 87 83 86 25 45 47 45
+Subpopulation 1:
+Evaluated: T
+ClusterQuery Fitness: 5985.166980147362 scorePlus 5985.166980147362 hitsPlus 0 
+-1 84 77 45 100 11 84 100 25 100 99 88 45 77 63 99 100 9
+Subpopulation 2:
+Evaluated: T
+ClusterQuery Fitness: 6803.909689113498 scorePlus 6803.909689113498 hitsPlus 0 
+95 78 78 77 31 100 86 31 31 33 100 31 40 40 31 16 31 78
+Subpopulation 3:
+Evaluated: T
+ClusterQuery Fitness: 6114.813167005777 scorePlus 6114.813167005777 hitsPlus 0 
+33 78 78 77 31 100 86 31 31 22 100 31 40 40 31 75 22 75
